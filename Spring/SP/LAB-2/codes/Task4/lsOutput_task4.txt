@@ -1,0 +1,11 @@
+total 856
+drwxr-xr-x  6 felixnowman  staff     192 Mar 10 14:31 codes
+-rw-r--r--@ 1 felixnowman  staff   25190 Feb  4 11:43 lab2_Task1.pdf
+-rw-r--r--@ 1 felixnowman  staff   45603 Mar 10 14:07 lab2_Task2.pdf
+-rw-r--r--@ 1 felixnowman  staff   40495 Mar 10 14:43 lab2_Task3.pdf
+-rw-r--r--@ 1 felixnowman  staff   65493 Feb  4 10:15 labsysprog2.pdf
+-rw-r--r--@ 1 felixnowman  staff       0 Mar 11 09:55 lsOutput_task4.txt
+-rw-r--r--@ 1 felixnowman  staff  252451 Mar 11 09:53 man_Task4.txt
+  PID TTY           TIME CMD
+30464 ttys006    0:00.17 -zsh
+ 3106 ttys008    0:00.27 /bin/zsh -il

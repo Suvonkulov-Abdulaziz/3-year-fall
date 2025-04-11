@@ -1,0 +1,3 @@
+  PID TTY           TIME CMD
+30464 ttys006    0:00.23 -zsh
+ 3106 ttys008    0:00.27 /bin/zsh -il
